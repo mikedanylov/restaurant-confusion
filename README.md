@@ -1,2 +1,2 @@
 # restaurant-confusion
-Web site of a restaurant
+Fron-end for a restaurant website
