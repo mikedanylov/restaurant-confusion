@@ -1,0 +1,24 @@
+{
+  "name": "confusion-restaurant",
+  "description": "",
+  "main": "index.html",
+  "authors": [
+    "mikedanylov"
+  ],
+  "license": "BSD",
+  "homepage": "https://confusion-restaurant.herokuapp.com/index.html",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "font-awesome": "~4.5.0",
+    "bootstrap-social": "~4.11.0"
+  }
+}
